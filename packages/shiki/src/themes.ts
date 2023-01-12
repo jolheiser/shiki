@@ -1,4 +1,8 @@
 export type Theme =
+  | 'catppuccin-frappe'
+  | 'catppuccin-latte'
+  | 'catppuccin-macchiato'
+  | 'catppuccin-mocha'
   | 'css-variables'
   | 'dark-plus'
   | 'dracula-soft'
@@ -30,6 +34,10 @@ export type Theme =
   | 'vitesse-light'
 
 export const themes: Theme[] = [
+  'catppuccin-frappe',
+  'catppuccin-latte',
+  'catppuccin-macchiato',
+  'catppuccin-mocha',
   'css-variables',
   'dark-plus',
   'dracula-soft',

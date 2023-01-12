@@ -94,6 +94,10 @@ Note that this client-side theme is less granular than most other supported VSCo
 
 ```ts
 export type Theme =
+  | 'catppuccin-frappe'
+  | 'catppuccin-latte'
+  | 'catppuccin-macchiato'
+  | 'catppuccin-mocha'
   | 'css-variables'
   | 'dark-plus'
   | 'dracula-soft'
