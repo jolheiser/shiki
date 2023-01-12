@@ -66,6 +66,22 @@ export const githubThemeSources: [string, string][] = [
   [
     'rose-pine-moon',
     'https://github.com/rose-pine/vscode/blob/main/themes/rose-pine-moon-color-theme.json'
+  ],
+  [
+    'catppuccin-mocha',
+    'https://github.com/catppuccin/vscode/blob/compiled/mocha.json'
+  ],
+  [
+    'catppuccin-macchiato',
+    'https://github.com/catppuccin/vscode/blob/compiled/macchiato.json'
+  ],
+  [
+    'catppuccin-frappe',
+    'https://github.com/catppuccin/vscode/blob/compiled/frappe.json'
+  ],
+  [
+    'catppuccin-latte',
+    'https://github.com/catppuccin/vscode/blob/compiled/latte.json'
   ]
 ]
 
